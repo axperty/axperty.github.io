@@ -1,21 +1,18 @@
 ---
 layout: home
 hero:
-  name: "Creating Minecraft Mods"
-  tagline: "Focused on details and the player experience."
+  name: "Yakisugi"
+  tagline: "A Japanese-inspired mod that adds charred wood planks, traditional blocks, items, and weapons"
   image:
-    src: /assets/hero.png
+    src: /assets/hero_yakisugi.png
     alt: Axperty
   actions:
-    - theme: brand
-      text: View Projects
-      link: /projects
     - theme: alt
-      text: CurseForge
-      link: https://www.curseforge.com/members/axperty/projects
+      text: Download on CurseForge
+      link: https://www.curseforge.com/minecraft/mc-mods/yakisugi
     - theme: alt
-      text: Modrinth
-      link: https://modrinth.com/user/axperty
+      text: Modrinth (waiting approval)
+      link: #
 features:
   - title: Minecraft Mods
     details: Over 10 projects released on CurseForge and Modrinth with over 40 million downloads.

@@ -12,7 +12,17 @@ The survival update that enhances everything you love is here, with a comprehens
 
 Featured in CurseForge's "Food & Farming" Monthly Theme.
 
-[Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/stacked-blocks-supplementaries) | [Download on Modrinth](https://modrinth.com/modpack/farming-experience) | [Visit Website](https://axperty.com/farmingexperience) | [Source Code](https://github.com/axperty/farmingexperience)
+[Download on CurseForge](https://www.curseforge.com/minecraft/modpacks/farming-experience) | [Download on Modrinth](https://modrinth.com/modpack/farming-experience) | [Visit Website](https://axperty.com/farmingexperience) | [Source Code](https://github.com/axperty/farmingexperience)
+
+***
+
+<img src="/assets/yakisugi.png" width="400" style="vertical-align: middle; border-radius: 8px; margin-right: 10px;"> 
+
+### Yakisugi
+
+A Japanese-inspired mod that adds charred wood planks, traditional blocks, items, and weapons!
+
+[Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/yakisugi) | [Download on Modrinth](https://modrinth.com/modpack/farming-experience) | [Visit Website](https://axperty.com/yakisugi) | [Source Code](https://github.com/axperty/yakisugi)
 
 ***
 
