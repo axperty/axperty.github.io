@@ -4,7 +4,7 @@ hero:
   name: "Yakisugi"
   tagline: "A Japanese-inspired mod that adds charred wood planks, traditional blocks, items, and weapons"
   image:
-    src: /assets/hero_yakisugi.png
+    src: /assets/hero_yakisugi.gif
     alt: Axperty
   actions:
     - theme: alt
