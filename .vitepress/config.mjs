@@ -23,7 +23,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Projects', link: '/projects' },
-      { text: 'News & Updates', link: '/posts/' },
       { text: 'Donate', link: '/donate' }
     ],
     socialLinks: [
