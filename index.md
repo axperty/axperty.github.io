@@ -11,8 +11,8 @@ hero:
       text: Download on CurseForge
       link: https://www.curseforge.com/minecraft/mc-mods/yakisugi
     - theme: alt
-      text: Modrinth (waiting approval)
-      link: #
+      text: Download on Modrinth
+      link: https://modrinth.com/mod/yakisugi
 features:
   - icon: 🚀
     title: Minecraft Mods
