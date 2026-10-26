@@ -22,7 +22,7 @@ Featured in CurseForge's "Food & Farming" Monthly Theme.
 
 A Japanese-inspired mod that adds charred wood planks, traditional blocks, items, and weapons!
 
-[Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/yakisugi) | [Download on Modrinth](https://modrinth.com/modpack/farming-experience) | [Visit Website](https://axperty.com/yakisugi) | [Source Code](https://github.com/axperty/yakisugi)
+[Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/yakisugi) | [Download on Modrinth](https://modrinth.com/mod/yakisugi) | [Visit Website](https://axperty.com/yakisugi) | [Source Code](https://github.com/axperty/yakisugi)
 
 ***
 
